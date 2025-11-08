@@ -33,7 +33,9 @@
 A Modern CLI Experience — by Tridib Dey
 
 ──────────────────────────────────────────────
+
 ✨ Add • Search • Authenticate • Save • Delete ✨
+
 ──────────────────────────────────────────────
 
 
